@@ -1,0 +1,1 @@
+import{C as s}from"./index-Dnp35JbI.js";const u={to:[String,Object],url:String,replace:Boolean};function c({to:t,url:o,replace:e,$router:r}){t&&r?r[e?"replace":"push"](t):o&&(e?location.replace(o):location.href=o)}function i(){const t=s().proxy;return()=>c(t)}const p=(t,o)=>{const e=t.__vccOpts||t;for(const[r,n]of o)e[r]=n;return e};export{p as _,c as a,u as r,i as u};
